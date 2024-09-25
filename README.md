@@ -1,4 +1,4 @@
 # 24_Engineering_Fair
 
 2024 DU Engineering Fair
-김수영, 정윤환
+Project : Car wash VR program for vocational education for the disabled
